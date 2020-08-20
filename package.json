@@ -1,0 +1,12 @@
+{
+  "name": "kickup-challenge",
+  "private": true,
+  "description": "Coding challenge used as part of KickUp's engineering recruiting process",
+  "scripts": {
+    "test": "mocha 'test.js'"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "sinon": "^1.15.3"
+  }
+}
